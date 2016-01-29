@@ -1,1 +1,1 @@
-jpm -b /usr/bin/firefox run -sel clip
+jpm -b /usr/bin/firefox run
