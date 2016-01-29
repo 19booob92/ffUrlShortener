@@ -1,0 +1,13 @@
+{
+  "title": "clipper",
+  "name": "clipper",
+  "version": "0.0.1",
+  "description": "addon for copy link and short it ",
+  "main": "index.js",
+  "author": "BoooB",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
